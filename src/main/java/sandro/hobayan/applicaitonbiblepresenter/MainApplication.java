@@ -16,7 +16,6 @@ public class MainApplication extends Application {
         stage.setTitle("Bible Presenter");
         stage.setScene(scene);
         stage.show();
-
     }
 
     public static void main(String[] args) {
